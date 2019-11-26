@@ -1,0 +1,141 @@
+format version: 5
+output mode:
+1 items
+0 -> single
+output directories:
+1 items
+output dir -> /home/doreen-dodoo/IdeaProjects/scala-collections/build/classes/scala/main
+compile options:
+2 items
+0 -> -deprecation
+1 -> -unchecked
+javac options:
+9 items
+0 -> -source
+1 -> 1.8
+2 -> -target
+3 -> 1.8
+4 -> -d
+5 -> /home/doreen-dodoo/IdeaProjects/scala-collections/build/classes/scala/main
+6 -> -g
+7 -> -proc:none
+8 -> -XDuseUnsharedTable=true
+compiler version:
+1 items
+0 -> 2.11.12
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> true
+products:
+4 items
+/home/doreen-dodoo/IdeaProjects/scala-collections/src/main/scala/io/turntabl/scalagettingstarted/MyApp.scala -> /home/doreen-dodoo/IdeaProjects/scala-collections/build/classes/scala/main/io/turntabl/scalagettingstarted/MyApp$$anonfun$1.class
+/home/doreen-dodoo/IdeaProjects/scala-collections/src/main/scala/io/turntabl/scalagettingstarted/MyApp.scala -> /home/doreen-dodoo/IdeaProjects/scala-collections/build/classes/scala/main/io/turntabl/scalagettingstarted/MyApp$.class
+/home/doreen-dodoo/IdeaProjects/scala-collections/src/main/scala/io/turntabl/scalagettingstarted/MyApp.scala -> /home/doreen-dodoo/IdeaProjects/scala-collections/build/classes/scala/main/io/turntabl/scalagettingstarted/MyApp$delayedInit$body.class
+/home/doreen-dodoo/IdeaProjects/scala-collections/src/main/scala/io/turntabl/scalagettingstarted/MyApp.scala -> /home/doreen-dodoo/IdeaProjects/scala-collections/build/classes/scala/main/io/turntabl/scalagettingstarted/MyApp.class
+binary dependencies:
+2 items
+/home/doreen-dodoo/IdeaProjects/scala-collections/src/main/scala/io/turntabl/scalagettingstarted/MyApp.scala -> /home/doreen-dodoo/.gradle/caches/modules-2/files-2.1/org.scala-lang/scala-library/2.11.12/bf5534e6fec3d665bd6419c952a929a8bdd4b591/scala-library-2.11.12.jar
+/home/doreen-dodoo/IdeaProjects/scala-collections/src/main/scala/io/turntabl/scalagettingstarted/MyApp.scala -> /snap/intellij-idea-community/185/jbr
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+0 items
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+0 items
+inheritance external dependencies:
+0 items
+class names:
+4 items
+/home/doreen-dodoo/IdeaProjects/scala-collections/src/main/scala/io/turntabl/scalagettingstarted/MyApp.scala -> io.turntabl.scalagettingstarted.MyApp
+/home/doreen-dodoo/IdeaProjects/scala-collections/src/main/scala/io/turntabl/scalagettingstarted/MyApp.scala -> io.turntabl.scalagettingstarted.MyApp$
+/home/doreen-dodoo/IdeaProjects/scala-collections/src/main/scala/io/turntabl/scalagettingstarted/MyApp.scala -> io.turntabl.scalagettingstarted.MyApp$$anonfun$1
+/home/doreen-dodoo/IdeaProjects/scala-collections/src/main/scala/io/turntabl/scalagettingstarted/MyApp.scala -> io.turntabl.scalagettingstarted.MyApp$delayedInit$body
+used names:
+46 items
+/home/doreen-dodoo/IdeaProjects/scala-collections/src/main/scala/io/turntabl/scalagettingstarted/MyApp.scala -> +
+/home/doreen-dodoo/IdeaProjects/scala-collections/src/main/scala/io/turntabl/scalagettingstarted/MyApp.scala -> ->
+/home/doreen-dodoo/IdeaProjects/scala-collections/src/main/scala/io/turntabl/scalagettingstarted/MyApp.scala -> <init>
+/home/doreen-dodoo/IdeaProjects/scala-collections/src/main/scala/io/turntabl/scalagettingstarted/MyApp.scala -> <repeated>
+/home/doreen-dodoo/IdeaProjects/scala-collections/src/main/scala/io/turntabl/scalagettingstarted/MyApp.scala -> >
+/home/doreen-dodoo/IdeaProjects/scala-collections/src/main/scala/io/turntabl/scalagettingstarted/MyApp.scala -> A
+/home/doreen-dodoo/IdeaProjects/scala-collections/src/main/scala/io/turntabl/scalagettingstarted/MyApp.scala -> Any
+/home/doreen-dodoo/IdeaProjects/scala-collections/src/main/scala/io/turntabl/scalagettingstarted/MyApp.scala -> AnyRef
+/home/doreen-dodoo/IdeaProjects/scala-collections/src/main/scala/io/turntabl/scalagettingstarted/MyApp.scala -> App
+/home/doreen-dodoo/IdeaProjects/scala-collections/src/main/scala/io/turntabl/scalagettingstarted/MyApp.scala -> ArrowAssoc
+/home/doreen-dodoo/IdeaProjects/scala-collections/src/main/scala/io/turntabl/scalagettingstarted/MyApp.scala -> B
+/home/doreen-dodoo/IdeaProjects/scala-collections/src/main/scala/io/turntabl/scalagettingstarted/MyApp.scala -> B1
+/home/doreen-dodoo/IdeaProjects/scala-collections/src/main/scala/io/turntabl/scalagettingstarted/MyApp.scala -> Boolean
+/home/doreen-dodoo/IdeaProjects/scala-collections/src/main/scala/io/turntabl/scalagettingstarted/MyApp.scala -> Function1
+/home/doreen-dodoo/IdeaProjects/scala-collections/src/main/scala/io/turntabl/scalagettingstarted/MyApp.scala -> Int
+/home/doreen-dodoo/IdeaProjects/scala-collections/src/main/scala/io/turntabl/scalagettingstarted/MyApp.scala -> List
+/home/doreen-dodoo/IdeaProjects/scala-collections/src/main/scala/io/turntabl/scalagettingstarted/MyApp.scala -> Map
+/home/doreen-dodoo/IdeaProjects/scala-collections/src/main/scala/io/turntabl/scalagettingstarted/MyApp.scala -> MatchError
+/home/doreen-dodoo/IdeaProjects/scala-collections/src/main/scala/io/turntabl/scalagettingstarted/MyApp.scala -> MyApp
+/home/doreen-dodoo/IdeaProjects/scala-collections/src/main/scala/io/turntabl/scalagettingstarted/MyApp.scala -> Nothing
+/home/doreen-dodoo/IdeaProjects/scala-collections/src/main/scala/io/turntabl/scalagettingstarted/MyApp.scala -> Object
+/home/doreen-dodoo/IdeaProjects/scala-collections/src/main/scala/io/turntabl/scalagettingstarted/MyApp.scala -> Predef
+/home/doreen-dodoo/IdeaProjects/scala-collections/src/main/scala/io/turntabl/scalagettingstarted/MyApp.scala -> Set
+/home/doreen-dodoo/IdeaProjects/scala-collections/src/main/scala/io/turntabl/scalagettingstarted/MyApp.scala -> String
+/home/doreen-dodoo/IdeaProjects/scala-collections/src/main/scala/io/turntabl/scalagettingstarted/MyApp.scala -> T1
+/home/doreen-dodoo/IdeaProjects/scala-collections/src/main/scala/io/turntabl/scalagettingstarted/MyApp.scala -> T2
+/home/doreen-dodoo/IdeaProjects/scala-collections/src/main/scala/io/turntabl/scalagettingstarted/MyApp.scala -> Tuple2
+/home/doreen-dodoo/IdeaProjects/scala-collections/src/main/scala/io/turntabl/scalagettingstarted/MyApp.scala -> Unit
+/home/doreen-dodoo/IdeaProjects/scala-collections/src/main/scala/io/turntabl/scalagettingstarted/MyApp.scala -> _1
+/home/doreen-dodoo/IdeaProjects/scala-collections/src/main/scala/io/turntabl/scalagettingstarted/MyApp.scala -> _2
+/home/doreen-dodoo/IdeaProjects/scala-collections/src/main/scala/io/turntabl/scalagettingstarted/MyApp.scala -> apply
+/home/doreen-dodoo/IdeaProjects/scala-collections/src/main/scala/io/turntabl/scalagettingstarted/MyApp.scala -> count
+/home/doreen-dodoo/IdeaProjects/scala-collections/src/main/scala/io/turntabl/scalagettingstarted/MyApp.scala -> details
+/home/doreen-dodoo/IdeaProjects/scala-collections/src/main/scala/io/turntabl/scalagettingstarted/MyApp.scala -> favorite
+/home/doreen-dodoo/IdeaProjects/scala-collections/src/main/scala/io/turntabl/scalagettingstarted/MyApp.scala -> friends
+/home/doreen-dodoo/IdeaProjects/scala-collections/src/main/scala/io/turntabl/scalagettingstarted/MyApp.scala -> immutable
+/home/doreen-dodoo/IdeaProjects/scala-collections/src/main/scala/io/turntabl/scalagettingstarted/MyApp.scala -> io
+/home/doreen-dodoo/IdeaProjects/scala-collections/src/main/scala/io/turntabl/scalagettingstarted/MyApp.scala -> language
+/home/doreen-dodoo/IdeaProjects/scala-collections/src/main/scala/io/turntabl/scalagettingstarted/MyApp.scala -> length
+/home/doreen-dodoo/IdeaProjects/scala-collections/src/main/scala/io/turntabl/scalagettingstarted/MyApp.scala -> name
+/home/doreen-dodoo/IdeaProjects/scala-collections/src/main/scala/io/turntabl/scalagettingstarted/MyApp.scala -> ne
+/home/doreen-dodoo/IdeaProjects/scala-collections/src/main/scala/io/turntabl/scalagettingstarted/MyApp.scala -> print
+/home/doreen-dodoo/IdeaProjects/scala-collections/src/main/scala/io/turntabl/scalagettingstarted/MyApp.scala -> scala
+/home/doreen-dodoo/IdeaProjects/scala-collections/src/main/scala/io/turntabl/scalagettingstarted/MyApp.scala -> scalagettingstarted
+/home/doreen-dodoo/IdeaProjects/scala-collections/src/main/scala/io/turntabl/scalagettingstarted/MyApp.scala -> turntabl
+/home/doreen-dodoo/IdeaProjects/scala-collections/src/main/scala/io/turntabl/scalagettingstarted/MyApp.scala -> unchecked
+product stamps:
+4 items
+/home/doreen-dodoo/IdeaProjects/scala-collections/build/classes/scala/main/io/turntabl/scalagettingstarted/MyApp$$anonfun$1.class -> lastModified(1574782343105)
+/home/doreen-dodoo/IdeaProjects/scala-collections/build/classes/scala/main/io/turntabl/scalagettingstarted/MyApp$.class -> lastModified(1574782343097)
+/home/doreen-dodoo/IdeaProjects/scala-collections/build/classes/scala/main/io/turntabl/scalagettingstarted/MyApp$delayedInit$body.class -> lastModified(1574782343105)
+/home/doreen-dodoo/IdeaProjects/scala-collections/build/classes/scala/main/io/turntabl/scalagettingstarted/MyApp.class -> lastModified(1574782343025)
+source stamps:
+1 items
+/home/doreen-dodoo/IdeaProjects/scala-collections/src/main/scala/io/turntabl/scalagettingstarted/MyApp.scala -> hash(88a684a93981cb6137bd964ebd4f5f08a7509c3e)
+binary stamps:
+2 items
+/home/doreen-dodoo/.gradle/caches/modules-2/files-2.1/org.scala-lang/scala-library/2.11.12/bf5534e6fec3d665bd6419c952a929a8bdd4b591/scala-library-2.11.12.jar -> lastModified(1574677258414)
+/snap/intellij-idea-community/185/jbr -> lastModified(1572329529000)
+class names:
+2 items
+/home/doreen-dodoo/.gradle/caches/modules-2/files-2.1/org.scala-lang/scala-library/2.11.12/bf5534e6fec3d665bd6419c952a929a8bdd4b591/scala-library-2.11.12.jar -> scala.App
+/snap/intellij-idea-community/185/jbr -> java.lang.Object
+internal apis:
+1 items
+/home/doreen-dodoo/IdeaProjects/scala-collections/src/main/scala/io/turntabl/scalagettingstarted/MyApp.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwsipK+AAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAec3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hw6HiKy3QABm5vdGlmeXNxAH4ADK4x4pJ0AARuYW1lc3EAfgAMMzTrQ3QABHdhaXRzcQB+AAyAiB77dAANJGFzSW5zdGFuY2VPZnNxAH4ADPLyNYp0AAhmYXZvcml0ZXNxAH4ADPSkZ3h0AAVNeUFwcHNxAH4ADL1XFKZ0AAZlcXVhbHNzcQB+AAxoG5c2dAAMYXNJbnN0YW5jZU9mc3EAfgAMKsfdinQADmV4ZWN1dGlvblN0YXJ0c3EAfgAMrOLp6HQADHN5bmNocm9uaXplZHNxAH4ADM5F8n50AA0kaXNJbnN0YW5jZU9mc3EAfgAMhAbVXnQABG1haW5zcQB+AAybNDNpdAAJbm90aWZ5QWxsc3EAfgAMJJVH3XQADGlzSW5zdGFuY2VPZnNxAH4ADF/McDl0AAhsYW5ndWFnZXNxAH4ADLJp/cJ0AAdmcmllbmRzc3EAfgAMCwf6fHQAAj09c3EAfgAMOjUNMHQABWNsb25lc3EAfgAM0sXksnQABiRpbml0JHNxAH4ADKH6OrZ0AAdkZXRhaWxzc3EAfgAMj3OPPHQACHRvU3RyaW5nc3EAfgAM4rBvPHQABGFyZ3NzcQB+AAxR4W0AdAACIT1zcQB+AAyAKd3XdAAIZ2V0Q2xhc3NzcQB+AAwHPFJfdAACbmVzcQB+AAySaoCvdAACZXFzcQB+AAxhxLeZdAALZGVsYXllZEluaXRzcQB+AAyq/8h2dAACIyNzcQB+AAwZJexhdAAIZmluYWxpemVzcQB+AAxzAssEdAAIaGFzaENvZGVzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAABc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgBTeHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADXhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnOX52HcEyZ7swIAAUIABWZsYWdzeHAAdAAlaW8udHVybnRhYmwuc2NhbGFnZXR0aW5nc3RhcnRlZC5NeUFwcHVyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQABk1vZHVsZXVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAAN0ABpzY2FsYS5kZXByZWNhdGVkT3ZlcnJpZGluZ3QAEHNjYWxhLmRlcHJlY2F0ZWR0ACZqZGsuaW50ZXJuYWwuSG90U3BvdEludHJpbnNpY0NhbmRpZGF0ZXNyACF4c2J0aS5hcGkuQWJzdHJhY3RMYXp5JFN0cmljdExhenkNZhxrKRYquAIAAUwABXZhbHVldAASTGphdmEvbGFuZy9PYmplY3Q7eHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgBuc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AFNMAAlpbmhlcml0ZWRxAH4AU0wAB3BhcmVudHNxAH4AU3hxAH4Ac3NxAH4AbnVxAH4ATgAAAABzcQB+AG51cQB+AE4AAAABc3IADXhzYnRpLmFwaS5EZWZSvp/ifLQ2aQIAAkwACnJldHVyblR5cGV0ABBMeHNidGkvYXBpL1R5cGU7WwAPdmFsdWVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvUGFyYW1ldGVyTGlzdDt4cQB+AFRxAH4AXXVxAH4AXgAAAAFzcgAUeHNidGkuYXBpLkFubm90YXRpb27eDoGi9lwKsgIAAlsACWFyZ3VtZW50c3QAH1tMeHNidGkvYXBpL0Fubm90YXRpb25Bcmd1bWVudDtMAARiYXNlcQB+AH14cHVyAB9bTHhzYnRpLmFwaS5Bbm5vdGF0aW9uQXJndW1lbnQ7UZ2mjzglD3gCAAB4cAAAAAFzcgAceHNidGkuYXBpLkFubm90YXRpb25Bcmd1bWVudNZFsdgDGxd8AgACTAAEbmFtZXEAfgANTAAFdmFsdWVxAH4ADXhwdAAAdAAqKCJtYWluIHNob3VsZCBub3QgYmUgb3ZlcnJpZGRlbiIsIjIuMTEuMCIpc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgANTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4AcnQAFGRlcHJlY2F0ZWRPdmVycmlkaW5nc3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgByc3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAACc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADXhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AAVzY2FsYXNyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgCXc3EAfgBgAHEAfgAldXEAfgBjAAAAAHNxAH4AinQABFVuaXRxAH4AkHVyABpbTHhzYnRpLmFwaS5QYXJhbWV0ZXJMaXN0O/XTOh3ys3DuAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJMaXN01sW8HGRJdOMCAAJaAAppc0ltcGxpY2l0WwAKcGFyYW1ldGVyc3QAHFtMeHNidGkvYXBpL01ldGhvZFBhcmFtZXRlcjt4cAB1cgAcW0x4c2J0aS5hcGkuTWV0aG9kUGFyYW1ldGVyO8+4xV2l3bVtAgAAeHAAAAABc3IAGXhzYnRpLmFwaS5NZXRob2RQYXJhbWV0ZXIfRa4X00mw6gIABFoACmhhc0RlZmF1bHRMAAhtb2RpZmllcnQAHUx4c2J0aS9hcGkvUGFyYW1ldGVyTW9kaWZpZXI7TAAEbmFtZXEAfgANTAADdHBlcQB+AH14cAB+cgAbeHNidGkuYXBpLlBhcmFtZXRlck1vZGlmaWVyAAAAAAAAAAASAAB4cQB+AGZ0AAVQbGFpbnEAfgA5c3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJpemVkFmzuaQPJu38CAAJMAAhiYXNlVHlwZXEAfgCLWwANdHlwZUFyZ3VtZW50c3QAEVtMeHNidGkvYXBpL1R5cGU7eHEAfgByc3EAfgCKdAAFQXJyYXlxAH4AkHVyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAABc3EAfgCKdAAGU3RyaW5nc3EAfgCOc3EAfgCRdXEAfgCUAAAAA3NxAH4AlnQABGphdmFzcQB+AJZ0AARsYW5ncQB+AJtzcQB+AG51cQB+ALIAAAAEc3EAfgCKdAADQXBwcQB+AJBzcQB+AIp0AAtEZWxheWVkSW5pdHEAfgCQc3EAfgCKdAAGT2JqZWN0cQB+ALZzcQB+AIp0AANBbnlxAH4AkHVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAADc3IAEXhzYnRpLmFwaS5QYWNrYWdlflmP9q7OOVgCAAFMAARuYW1lcQB+AA14cHQAAmlvc3EAfgDJdAAfaW8udHVybnRhYmwuc2NhbGFnZXR0aW5nc3RhcnRlZHNxAH4AyXQAC2lvLnR1cm50YWJsc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFuqFeJFnVyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADUwAD3NvdXJjZURpcmVjdG9yeXEAfgANeHB0AEovaG9tZS9kb3JlZW4tZG9kb28vSWRlYVByb2plY3RzL3NjYWxhLWNvbGxlY3Rpb25zL2J1aWxkL2NsYXNzZXMvc2NhbGEvbWFpbnQAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFIimhKk5gcthN72WTr1PXwinUJw+
+external apis:
+0 items
+source infos:
+1 items
+/home/doreen-dodoo/IdeaProjects/scala-collections/src/main/scala/io/turntabl/scalagettingstarted/MyApp.scala -> 
+AAAAAAAAAAA=
+compilations:
+1 items
+0 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABbqhXiRZ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQASi9ob21lL2RvcmVlbi1kb2Rvby9JZGVhUHJvamVjdHMvc2NhbGEtY29sbGVjdGlvbnMvYnVpbGQvY2xhc3Nlcy9zY2FsYS9tYWludAABLw==
