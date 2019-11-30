@@ -16,17 +16,17 @@ object MyApp extends App {
 
    favorite + ("Ghana" -> "Accra", "Russia" -> "Moscow")
 
-   // print(favorite.getOrElse("Norway", "Unknown"))
+   print(favorite.getOrElse("Norway", "Unknown"))
 
-    val friends = Set("Christiana", "Yaa", "Franklin", "Samuel", "Samuel")
+   val friends = Set("Christiana", "Yaa", "Franklin", "Samuel", "Samuel")
 
-    //print(friends.count(_ == "Samuel"))
+   print(friends.count(_ == "Samuel"))
 
-    //List("David", "Doreen","Christiana", "Yaa", "Franklin", "Samuel") foreach(println)
+   List("David", "Doreen","Christiana", "Yaa", "Franklin", "Samuel") foreach(println)
 
-   // List("David", "Doreen","Christiana", "Yaa", "Franklin", "Samuel") foreach(n => if(n.length > 6) println(n))
+   List("David", "Doreen","Christiana", "Yaa", "Franklin", "Samuel") foreach(n => if(n.length > 6) println(n))
 
-    print(List("David", "Doreen","Christiana", "Yaa", "Franklin", "Samuel") count(_.length > 6))
+   print(List("David", "Doreen","Christiana", "Yaa", "Franklin", "Samuel") count(_.length > 6))
 
 
 
